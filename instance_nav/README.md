@@ -1,4 +1,11 @@
-    #     ___  ____     _    ____ _     _____
+#Nav Comments
+This was a copy of instance from docs/example from Oracle terraform provider repository. Deleted the option to add Block Volume of 50G during instance creation.
+Added remote-exec as an working example. remote-exec gives you the ability to install software on the instance by executing a command after instance have been created.
+## End Nav Comments    
+
+
+
+#     ___  ____     _    ____ _     _____
     #    / _ \|  _ \   / \  / ___| |   | ____|
     #   | | | | |_) | / _ \| |   | |   |  _|
     #   | |_| |  _ < / ___ | |___| |___| |___
